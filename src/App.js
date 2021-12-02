@@ -7,7 +7,7 @@ function App() {
       <span></span>
       <h1 style={{
         fontSize: 70,
-      }}>Never Give Up</h1>
+      }}>Dee's Hubtel</h1>
     </div>
   );
 }
